@@ -1,0 +1,160 @@
+html {
+  background-color: white;
+  display: blo
+}
+body{
+  height: 200%;
+  width: 600px;
+}
+h2{
+    padding-left: 169px;
+
+}
+.nav-link{
+  float: right;
+  margin-right: 10px;
+  color: white ;
+  
+  
+}
+.couleur{
+
+  background-color: white;
+}
+
+.un{
+  background-color: white;
+    border: ridge (0,0,0,0) 3pt ;
+    color: white;
+    width: 100% ;
+    margin-left: 0;
+    margin-right: 0;
+}
+.deux{
+  color: white; 
+  font-family: 'Ibarra Real Nova', serif;
+  float: left;
+  margin-left: 30pt;
+}
+    
+.trois{
+    padding-left: 169px:;
+    float: right;
+    margin-right: 14px;
+    color: white;
+    
+}
+ .carousel-inner img {
+      width: 100%;
+      height: 450px;
+      animation: glisse 10s infinite;
+     
+  }
+  #facade{
+    position: relative;
+  }
+  .con{
+    position: absolute;
+    left: 65px; 
+    top: 45px ; 
+    z-index: 10;
+    padding-left: 169px;
+    padding-top: 15%;
+    color: #FFFFFF;
+  }
+
+  .quate{
+    padding-left: 750px;
+  }
+  .raison{
+    padding-left: 400px;
+  }
+  .row{
+    padding-left: 100px;
+  }
+
+a{
+  margin-right: 15px;
+
+}
+/*#logo img
+{
+    width: 59px;
+    height: 60px;
+}
+
+img{
+    
+    width: 120%;
+    height: 50%;
+    margin-left: 0;
+    margin-right: 0;
+  margin-bottom: 80%;
+  margin-top: 0;  
+} */
+ 
+
+body
+{
+    background: url('images/fond_jaune.png');
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
+}
+fieldset{
+  background-color: rgb(14,56,75);
+  border: ridge;
+  margin-bottom: 0pt;
+  margin-top: 100%;
+  margin-left:auto;
+  margin-right:auto; 
+  size: 100%;
+  color: white;
+  
+
+}
+li{
+  font-family: 'Ibarra Real Nova', serif;
+    color: white;
+}
+
+header{
+  float: right;
+}
+
+.a{
+  float: right;
+  margin-bottom: 30%;
+
+}
+button {
+  margin:10px;
+}
+.quatre {
+  float: right;
+  color:white;
+  position: relative;
+    left:0%;
+    right:90%;
+    top:20%;
+}
+.cinq {
+  float: right;
+  position: relative;
+  left: 100%;
+  margin-left: 100%;
+  margin-bottom: 30%;
+  margin-left: 5%;
+  margin-top: 0%;
+}
+.six {
+    margin-top:30%;
+}
+.trois{
+    padding-left: 750px;
+  }
+  .raison{
+    padding-left: 400px;
+  }
+  h2{
+    text-align: center;
+  }
